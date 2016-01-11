@@ -45,3 +45,6 @@ group :development do
   gem 'spring'
 end
 
+gem 'bootstrap-generators', '~> 3.3.4'
+gem 'haml-rails', '~> 0.9.0'
+gem 'simple_form', '~> 3.2', '>= 3.2.1'
